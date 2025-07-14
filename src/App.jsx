@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Name Greeting App</h1>
+      <h1>Name Greeting App V1</h1>
       <div className="greeting-container">
         <input
           type="text"
